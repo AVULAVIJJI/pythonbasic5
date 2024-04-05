@@ -1,0 +1,21 @@
+data types:int,str,float,complex,bool///list,tuple,set,dict//bytes: byte array,frozen set, none type,range.
+python was invented by gudo rossam netherland 1989
+GA 1991 feb 20th python 1.X
+current vesrion 3.12
+java (1995)
+what is pip?
+pypi.org comtains python packages to download
+python datatypes
+int
+float
+tuple
+bool
+list
+dict
+str
+complex
+none
+fs
+byte
+bytearray
+
